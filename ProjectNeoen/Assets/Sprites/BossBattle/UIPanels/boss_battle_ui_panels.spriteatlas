@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: boss_battle_ui_panels
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8e51982795eb5f4439f00a4f2058e44a, type: 3}
+    - {fileID: 2800000, guid: dce63df8203c8e448a133b7be21aa15f, type: 3}
+    - {fileID: 2800000, guid: 0175e6ec3b4ddb14b863ba6a48ca6dd4, type: 3}
+    - {fileID: 2800000, guid: f237c0bce3fc1724abb9d848d719ddb1, type: 3}
+    - {fileID: 2800000, guid: 8dbe771444e3779409ee5770b33c78ed, type: 3}
+    - {fileID: 2800000, guid: 180b100a8cb41de47a4d7db9477af09f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8dbe771444e3779409ee5770b33c78ed, type: 3}
+  - {fileID: 21300000, guid: 8e51982795eb5f4439f00a4f2058e44a, type: 3}
+  - {fileID: 21300000, guid: dce63df8203c8e448a133b7be21aa15f, type: 3}
+  - {fileID: 21300000, guid: 180b100a8cb41de47a4d7db9477af09f, type: 3}
+  - {fileID: 21300000, guid: f237c0bce3fc1724abb9d848d719ddb1, type: 3}
+  - {fileID: 21300000, guid: 0175e6ec3b4ddb14b863ba6a48ca6dd4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - round_panel
+  - end_game_panel
+  - instructions_panel
+  - winlose_panel
+  - options_panel
+  - intro_panel
+  m_RenderDataMap: {}
+  m_Tag: boss_battle_ui_panels
+  m_IsVariant: 0

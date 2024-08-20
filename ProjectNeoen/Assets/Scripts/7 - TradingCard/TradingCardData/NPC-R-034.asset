@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-034
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: f0b00e8faba711b4d8c7019e4184c4cc, type: 2}
+  NpcSprite: {fileID: 21300000, guid: fc5188a5a0f9f4e4ea86ac45a416a12d, type: 3}
+  NpcJob: Software Developer
+  JobDescription: I'm the one who codes the algorithms. No, not the ones for your
+    social media feed! The ones that keep our renewable energy systems running. Energy
+    trading, operational control, back-office systems, I'm across them all. IF I'm
+    coding, THEN things are optimised, ELSE no renewable energy!
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  CardStats:
+  - 38
+  - 70
+  - 27
+  - 17
+  - 17
+  - 80
+  Skills:
+  - Computers and Electronics
+  - Mathematics
+  - Engineering and Technology
+  - English Language
+  - Customer and Personal Service
+  Qualifications:
+  - Bachelor Degree or higher qualification in information technology (programming,
+    software engineering, software development or computer science)
+  - Some workers have a VET qualification
+  SalaryPercent: 39
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

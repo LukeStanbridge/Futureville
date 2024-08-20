@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-056
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 0da2575d6bca52d43ae6b1b5e29444e2, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 0b9c61ecf4276d84ea4753ff224fa7fd, type: 3}
+  NpcJob: Acoustic Engineer
+  JobDescription: What's that sound? That's my job, I assess the noise impact of
+    a renewable energy project and propose mitigation strategies such as noise walls.
+    Although not as loud as some industrial sites, I make sure the community isn't
+    impacted by any noise from our sites. You're welcome!
+  EnvironmentDescriptions:
+  - Indoor Office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 69
+  - 85
+  - 17
+  - 20
+  - 35
+  - 55
+  Skills:
+  - Engineering and Technology
+  - Mathematics
+  - Chemistry
+  - English Language
+  - Design
+  Qualifications:
+  - Bachelor degree or higher qualification in engineering
+  - Licensing or registration required
+  SalaryPercent: 21
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

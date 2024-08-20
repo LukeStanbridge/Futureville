@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-018
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 32c695a555aff5740a9f03f72f686140, type: 3}
+  NpcJob: Landscape Architect
+  JobDescription: Renewable energy projects need turbines and solar panels obviously,
+    but you also need roads, land subdivisions and buildings. That's my job. I design
+    the landscape of a renewable energy site. Projects need to be well organised
+    with good access, and sometimes obscured from view with some well-placed trees.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Sometimes outdoors on project sites
+  CardStats:
+  - 73
+  - 62
+  - 60
+  - 27
+  - 44
+  - 44
+  Skills:
+  - Design
+  - Building and Construction
+  - Public Safety and Security
+  - English Language
+  - Engineering and Technology
+  Qualifications:
+  - Bachelor Degree or higher qualification in architectural design or landscape
+    architecture.
+  - Licencing or registration required
+  SalaryPercent: 15
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-038
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: c13e49dd62c7d85408e687051914f78b, type: 3}
+  NpcJob: Civil Engineering Technician
+  JobDescription: My job is to support the Civil Engineers in building our renewable
+    energy sites. I conduct tests of construction materials, prepare sketches and
+    tabulations, and assist in estimating costs. I love getting stuck into a complex
+    calculation of the volume of concrete required for an odd shaped structural foundation,
+    I'm just like that I guess.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 80
+  - 83
+  - 27
+  - 9
+  - 14
+  - 72
+  Skills:
+  - Engineering and Technology
+  - Mathematics
+  - Building and Construction
+  - Design
+  - Administrative
+  Qualifications:
+  - Associate Degree, Advanced Diploma or Diploma in civil engineering or relevant
+    experience.
+  - VET and university are both common study pathways
+  - Licensing or registration required
+  SalaryPercent: 9
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STABLE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

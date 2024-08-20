@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-005
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 47737c852d627a448bca896169b592e5, type: 3}
+  NpcJob: Lawyer
+  JobDescription: Contracts, regulations, and solving legal problems, that's my bread
+    and butter. I give legal advice to support the development, acquisition, and
+    operation of our renewable energy projects. I make sure everything is done to
+    the letter of the law. No shortcuts here!
+  EnvironmentDescriptions:
+  - Indoor Office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 3
+  - 59
+  - 22
+  - 41
+  - 76
+  - 59
+  Skills:
+  - Law and Government
+  - English Language
+  - Cusotmer and Personal Service
+  - Administration and Management
+  - Personnel and Human Resources
+  Qualifications:
+  - 'Bachelor degree or higher qualification in law '
+  - Licencing or registration required
+  SalaryPercent: 4
+  SalaryAdjustment: 'lower
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

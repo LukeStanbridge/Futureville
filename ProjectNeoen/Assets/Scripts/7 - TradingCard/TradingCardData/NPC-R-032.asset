@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-032
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 40a4a3b76d79e6a47a1d9d2eb75b1ee8, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 01b875dc59bf72843a0a9b16d3b535c4, type: 3}
+  NpcJob: Teacher
+  JobDescription: I've had a long career working in renewable energy, and now I'm
+    passing that knowledge on to the next generation. My job is to teach you work-ready
+    skills to unlock your career potential. I'm upskilling the future workforce!
+  EnvironmentDescriptions:
+  - In person and online classrooms, onsite at workplaces
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 31
+  - 38
+  - 43
+  - 100
+  - 28
+  - 42
+  Skills:
+  - Customer and Personal Service
+  - Education and Training
+  - English Language
+  - Computers and Electronics
+  - Administrative
+  Qualifications:
+  - Bachelor Degree or higher qualification in related field and extensive practical
+    or industry experience in related field
+  - Certificate IV in Training and Assessment
+  - Licencing or registration required
+  SalaryPercent: 12
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

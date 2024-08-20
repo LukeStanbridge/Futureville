@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-003
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 3fda9b13eeb9fe64eaa5fd5d0e0b6cfa, type: 3}
+  NpcJob: Communications Manager
+  JobDescription: No two days are the same when telling the story of the transition
+    to net zero. I keep the community and other organisations informed about what
+    is happening in our renewable energy business. One day I'll be talking to the
+    media, the next day running an event. It's never dull!
+  EnvironmentDescriptions:
+  - Indoor Office
+  - Working with others
+  - Working at a computer
+  CardStats:
+  - 0
+  - 23
+  - 45
+  - 52
+  - 100
+  - 57
+  Skills:
+  - Communications and Media
+  - English Language
+  - Administration and Management
+  - Customer and Personal Service
+  - Sales and Marketing
+  Qualifications:
+  - Bachelor Degree or higher qualification in advertising, marketing and communication
+    or media studies.
+  - University and VET are both common study pathways
+  SalaryPercent: 60
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

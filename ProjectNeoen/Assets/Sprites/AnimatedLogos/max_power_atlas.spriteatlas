@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: max_power_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -1810224835, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: -1301411414, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: -469547252, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 1576996270, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: -457652655, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 1923042632, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 2035983505, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 1446340775, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: -423366922, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: -1327383853, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 1481571780, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: -1610922749, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 1593849318, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 439531921, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 929086059, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 729358460, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    - {fileID: 1676947408, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 929086059, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 729358460, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 1676947408, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 1481571780, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -1610922749, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 1593849318, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 439531921, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 1923042632, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -457652655, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 1446340775, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 2035983505, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -1301411414, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -1810224835, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: 1576996270, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -469547252, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -1327383853, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  - {fileID: -423366922, guid: 116895891e3ad6142a2bf8794fe721db, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - maximumpower_logo_14
+  - maximumpower_logo_15
+  - maximumpower_logo_16
+  - maximumpower_logo_10
+  - maximumpower_logo_11
+  - maximumpower_logo_12
+  - maximumpower_logo_13
+  - maximumpower_logo_5
+  - maximumpower_logo_4
+  - maximumpower_logo_7
+  - maximumpower_logo_6
+  - maximumpower_logo_1
+  - maximumpower_logo_0
+  - maximumpower_logo_3
+  - maximumpower_logo_2
+  - maximumpower_logo_9
+  - maximumpower_logo_8
+  m_RenderDataMap: {}
+  m_Tag: max_power_atlas
+  m_IsVariant: 0

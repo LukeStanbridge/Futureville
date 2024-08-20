@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-041
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: b4413dde31fb04b429a843505bcacbf2, type: 3}
+  NpcJob: Electrical Engineering Technician
+  JobDescription: My job is to support the Electrical Engineers in building our renewable
+    energy sites. I conduct tests of electrical systems, prepare charts and tabulations,
+    and assist in estimating costs. I live in the world of volts, watts, amps and
+    ohms. Just yesterday I was testing the conductivity of copper versus aluminium
+    wire.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 88
+  - 70
+  - 12
+  - 12
+  - 5
+  - 67
+  Skills:
+  - Computers and Electronics
+  - Engineering and Technology
+  - English Language
+  - Design
+  - Mathematics
+  Qualifications:
+  - Associate Degree, Advanced Diploma or Diploma in electrical engineering or relevant
+    experience.
+  - Some workers have university qualifications (Electrical & Electronic Engineering
+    & Technology)
+  - Licensing or registration required
+  SalaryPercent: 14
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STABLE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-006
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: e3f88e670cd6fed4fa8915a2535ef55b, type: 3}
+  NpcJob: Developement Project Manager
+  JobDescription: I enjoy prospecting for new sites, working with land owners and
+    developing new renewable energy projects. I'm accross all matters relating to
+    our project sites, from identification, design, planning and permiting, financing,
+    selecting construction partners etc. It's a long list! For me, everything is
+    on a need-to-know basis!
+  EnvironmentDescriptions:
+  - Indoor office and outdoors at project sites
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 42
+  - 48
+  - 12
+  - 23
+  - 94
+  - 64
+  Skills:
+  - Administration and Management
+  - English Language
+  - Building and Construction
+  - Engineering and Technology
+  - Communications and Media
+  Qualifications:
+  - Bachelor Degree or higher qualification in business and management, project management,
+    enginneering, sociology or law.
+  - Relevant industry experience
+  - Certificate IV or Diploma in project management.
+  SalaryPercent: 120
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-033
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 0da2575d6bca52d43ae6b1b5e29444e2, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 67b7a1840174b9b4294d6116ae1753a6, type: 3}
+  NpcJob: Health and Safety Officer
+  JobDescription: Safety first! My job is to keep everyone healthy at work. I develop
+    ways to avoid injuries, keep an eye on safety at our project sites and offices,
+    and investigate any incidents that do happen. Sometimes it's the hidden long-term
+    health risks that are the hardest to spot, but I'm on the case. I want my workmates
+    to go home injury-free!
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Sometimes outdoors on project sites
+  CardStats:
+  - 60
+  - 66
+  - 4
+  - 40
+  - 35
+  - 64
+  Skills:
+  - Education and Training
+  - English Language
+  - Chemistry
+  - Public Safety and Security
+  - Law and Government
+  Qualifications:
+  - Bachelor Degree or higher qualification in occupational health and safety, environmental
+    health, environmental science or related field.
+  - VET and university are both common study pathways
+  - Licencing or registration required
+  SalaryPercent: 24
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

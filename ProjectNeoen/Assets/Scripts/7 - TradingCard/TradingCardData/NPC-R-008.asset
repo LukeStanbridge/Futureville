@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-008
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 0a390a61a96c9b246866a94141c2443b, type: 3}
+  NpcJob: Business Developement Manager
+  JobDescription: I spend my time building and managing relationships, so we can
+    continue to grow our renewable energy business. I enjoy negotiating deals and
+    finding the best partners for our projects. I have a keen understanding of lots
+    of industries and their energy needs. Good thing I'm a people person in my job!
+  EnvironmentDescriptions:
+  - Indoor Office
+  - Working at a computer
+  - Meeting new people
+  CardStats:
+  - 8
+  - 11
+  - 5
+  - 38
+  - 100
+  - 76
+  Skills:
+  - Sales and Marketing
+  - Customer and Personal Service
+  - English Language
+  - Administration and Management
+  - Education and Training
+  Qualifications:
+  - Bachelor Degree or higher qualification in marketing commerce, business management,
+    communications or another related field.
+  - Some workers have a VET qualification
+  SalaryPercent: 10
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 1

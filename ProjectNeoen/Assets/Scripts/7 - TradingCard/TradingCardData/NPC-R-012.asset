@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-012
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 812c7e12aa200494cbc53291ede9dfee, type: 3}
+  NpcJob: Research & Development Manager
+  JobDescription: In my job I'm pushing our technology into the future. What's next
+    for solar, wind and batteries? I'm leading innovation and determining what will
+    work best for our business. I'm proud of what we've done today, but what can
+    we do tomorrow to make it better?
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 36
+  - 57
+  - 28
+  - 32
+  - 90
+  - 60
+  Skills:
+  - Design
+  - Engineering and Technology
+  - Mechanical
+  - Administration and Management
+  - English Language
+  Qualifications:
+  - Bachelor Degree or higher qualification in related field.
+  - Relevant industry experience.
+  SalaryPercent: 54
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

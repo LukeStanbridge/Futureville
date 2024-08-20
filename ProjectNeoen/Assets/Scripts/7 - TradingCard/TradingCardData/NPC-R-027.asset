@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-027
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: f0b00e8faba711b4d8c7019e4184c4cc, type: 2}
+  NpcSprite: {fileID: 21300000, guid: d6993b0c6868f1942a06ad0ebe39af64, type: 3}
+  NpcJob: Performance Engineer / Manager
+  JobDescription: Efficiency, that's my game! I investigate the utilisation of workers,
+    facilities, equipment and materials. If I can improve how we do what we do, that
+    saves us time and money. It's like a big puzzle, and I'm thinking many moves
+    ahead.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 62
+  - 65
+  - 11
+  - 8
+  - 42
+  - 74
+  Skills:
+  - Engineering and Technology
+  - Production and Processing
+  - Mechanical
+  - Design
+  - English Language
+  Qualifications:
+  - Bachelor Degree or higher qualification in engineering (Mechanical and Industrial
+    Engineering and Technology)
+  - Licensing or registration required
+  SalaryPercent: 51
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

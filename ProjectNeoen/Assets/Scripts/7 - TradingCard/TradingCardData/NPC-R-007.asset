@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-007
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: ecce3bfffeb634548a81c85381d8832e, type: 3}
+  NpcJob: Sales & Marketing Manager
+  JobDescription: I sell the clean energy we are generating, and the technology that
+    generates it. On any given day I'll be making an advertisement, working with
+    new customers to buy our electricity, or recommending a energy generation solution.
+    I love the direct role I play in switching people to renewable energy!
+  EnvironmentDescriptions:
+  - Indoor Office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 0
+  - 32
+  - 24
+  - 30
+  - 100
+  - 62
+  Skills:
+  - Sales and Marketing
+  - English Language
+  - Administration and Management
+  - Customer and Personal Service
+  - Communications and Media
+  Qualifications:
+  - Bachelor Degree or higher qualification in business administration, advertising,
+    marketing and communication or media studies.
+  - University and VET are both common study pathways
+  SalaryPercent: 60
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 1

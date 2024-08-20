@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6639e81a1eca90d4cb198a7358c8470d, type: 3}
+  m_Name: MaxPowerWin
+  m_EditorClassIdentifier: 
+  _number: {fileID: 0}
+  textAreaString: 'Great work!
+
+
+    You placed <font="Poppins-ExtraBold">{1} turbines.</font>
+
+    Based
+    on where they were placed, and their proximity to the protected species, <font="Poppins-ExtraBold">{2}</font>
+    would generate wind energy.
+
+
+    With this wind farm we can power <font="Poppins-ExtraBold">{3}</font>
+    Futureville homes.'

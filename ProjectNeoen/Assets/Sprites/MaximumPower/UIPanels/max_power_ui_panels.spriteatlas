@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: max_power_ui_panels
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 99332646ee527884282cf0de12e76d9a, type: 3}
+    - {fileID: 2800000, guid: bc288e7d5ab65d54fafc9bb369518cdd, type: 3}
+    - {fileID: 2800000, guid: 92a4ab5844ee3114a8561f55d6d78013, type: 3}
+    - {fileID: 2800000, guid: 777ec9d16d17df847a66d147748050c8, type: 3}
+    - {fileID: 2800000, guid: 543ec0f26bd0aea4ea2b1d99c39228e3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 777ec9d16d17df847a66d147748050c8, type: 3}
+  - {fileID: 21300000, guid: 543ec0f26bd0aea4ea2b1d99c39228e3, type: 3}
+  - {fileID: 21300000, guid: 99332646ee527884282cf0de12e76d9a, type: 3}
+  - {fileID: 21300000, guid: 92a4ab5844ee3114a8561f55d6d78013, type: 3}
+  - {fileID: 21300000, guid: bc288e7d5ab65d54fafc9bb369518cdd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - results_panel
+  - winlose_panel
+  - intro_panel
+  - options_panel
+  - instruction_panel
+  m_RenderDataMap: {}
+  m_Tag: max_power_ui_panels
+  m_IsVariant: 0

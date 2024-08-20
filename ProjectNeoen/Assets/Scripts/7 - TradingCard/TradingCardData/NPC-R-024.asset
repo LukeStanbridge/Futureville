@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-024
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 3fc2ed858d5dcd04d9e888451897827c, type: 3}
+  NpcJob: Transport Engineer
+  JobDescription: Renewable energy projects are big and need lots of components.
+    It's my job to make sure we move people and freight efficiently and cost effectively.
+    Need a turbine blade moved from the port to the site along narrow country roads?
+    I'm on it! Let me get my maps.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 76
+  - 64
+  - 18
+  - 17
+  - 34
+  - 62
+  Skills:
+  - Engineering and Technology
+  - Design
+  - Transportation
+  - Building and Construction
+  - Mathematics
+  Qualifications:
+  - Bachelor Degree or higher qualification in Civil Engineering.
+  - Licensing or registration required
+  SalaryPercent: 39
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

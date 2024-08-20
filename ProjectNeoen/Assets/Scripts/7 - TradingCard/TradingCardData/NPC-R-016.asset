@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-016
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: aa6f26fbe319a074bbaf551d8dd7f2e2, type: 3}
+  NpcJob: Energy Trader
+  JobDescription: Buy low! Sell high! Simple in theory, but tricky in practice. That's
+    where I come in. I keep on top of the energy commodity markets so that we're
+    selling our renewable energy to the market at the best possible time. It's like
+    the stock market, but instead of shares, I trade in electrons!
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 5
+  - 26
+  - 6
+  - 35
+  - 85
+  - 71
+  Skills:
+  - Customer and Personal Service
+  - Economics and Accounting
+  - English Language
+  - Mathematics
+  - Sales and Marketing
+  Qualifications:
+  - Associate Degree, Advanced Diploma or Diploma in commerce, accounting, finance,
+    economics or actuarial studies.
+  - VET and university are both common study pathways
+  - Licensing or registration required
+  SalaryPercent: 65
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

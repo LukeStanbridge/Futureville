@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-044
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 666d9679556e3c8439edd0f0fd9b30ef, type: 3}
+  NpcJob: Plumber
+  JobDescription: I install, maintain and repair pipes, drains, guttering and roofing
+    on our renewable energy sites. But renewable energy isn't all about wind and
+    solar. Hydroelectric energy is one of the best sources of clean energy. That's
+    when it's my time to shine, moving water to generate electricity. I'm no Mario,
+    but I do my best.
+  EnvironmentDescriptions:
+  - 'Outdoor project sites '
+  - Physical exertion
+  - Using hands and tools to control or feel objects
+  CardStats:
+  - 100
+  - 21
+  - 0
+  - 5
+  - 0
+  - 48
+  Skills:
+  - Building and Construction
+  - Mechanical
+  - Design
+  - Mathematics
+  - Customer and Personal Service
+  Qualifications:
+  - Certificate III or IV in plumbing
+  - Often part of an apprenticeship.
+  - Licensing or registration required
+  SalaryPercent: 11
+  SalaryAdjustment: 'lower
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

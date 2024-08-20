@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: char2_transition_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -882720714, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: -502643890, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: 977025816, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: -1277507400, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: 821312456, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: -1491666127, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: 692974953, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: 648895024, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: 1806018117, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: -571752190, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: -1318859586, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  - {fileID: 566021870, guid: a1b5f377013a6f442b269e0886794c2f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite_char2_transition_8
+  - sprite_char2_transition_9
+  - sprite_char2_transition_2
+  - sprite_char2_transition_3
+  - sprite_char2_transition_0
+  - sprite_char2_transition_1
+  - sprite_char2_transition_6
+  - sprite_char2_transition_7
+  - sprite_char2_transition_4
+  - sprite_char2_transition_5
+  - sprite_char2_transition_11
+  - sprite_char2_transition_10
+  m_RenderDataMap: {}
+  m_Tag: char2_transition_atlas
+  m_IsVariant: 0

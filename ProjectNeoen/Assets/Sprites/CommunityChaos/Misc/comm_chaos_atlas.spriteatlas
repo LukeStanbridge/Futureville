@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: comm_chaos_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 407305612e9e3c94f95d10a766178315, type: 3}
+    - {fileID: 2800000, guid: 932f25386e984564f86e695cc9bc69d4, type: 3}
+    - {fileID: 2800000, guid: e4b152f8ed17d4a40b3050bc47d72dc7, type: 3}
+    - {fileID: 2800000, guid: e012af00f34592c4e8cb6377518261da, type: 3}
+    - {fileID: 2800000, guid: 2bd6e6228ef4b934290a35cab3c3688d, type: 3}
+    - {fileID: 2800000, guid: 426ef7c48dcc1e747aafd62cac26f129, type: 3}
+    - {fileID: 2800000, guid: f388779788e9a1248a6d7f7f40d48e2f, type: 3}
+    - {fileID: 2800000, guid: 10c3819cd671e61488132e23d157d28b, type: 3}
+    - {fileID: 2800000, guid: 7ab71ca2bdcb18f4faf1f1a340e19ce6, type: 3}
+    - {fileID: 2800000, guid: f6ee1d347c03458408782934f87ab83d, type: 3}
+    - {fileID: 2800000, guid: 4af6ea15276a82f4bb3f827e8edaa03c, type: 3}
+    - {fileID: 2800000, guid: 5acba648080c0a74e8a0a19e7c79b0f7, type: 3}
+    - {fileID: 2800000, guid: a29bcd141f0bf854eb631c5d0f0cb373, type: 3}
+    - {fileID: 2800000, guid: 985512a77fd631d4bae7b04061c6080e, type: 3}
+    - {fileID: 2800000, guid: cd3ca16109627884ea39ef2205c9cfcd, type: 3}
+    - {fileID: 2800000, guid: 5637b8bf5a27fa14d85db60f22300e75, type: 3}
+    - {fileID: 2800000, guid: 5305595f0667b8b4fb2c7074712c5422, type: 3}
+    - {fileID: 2800000, guid: 7bbc77c034fa3534cb92b9067f78595f, type: 3}
+    - {fileID: 2800000, guid: b202a831641954d44a7887d421c0119c, type: 3}
+    - {fileID: 2800000, guid: 0d804eaf61544bd489977208ff100e34, type: 3}
+    - {fileID: 2800000, guid: 6b8d238ac58efc74ca7cc81f3d9f176b, type: 3}
+    - {fileID: 2800000, guid: 5b7b5ce66885bbf4ea2f0b7c7a1e62e1, type: 3}
+    - {fileID: 2800000, guid: 03537cdad6ebdb447a880246a059c566, type: 3}
+    - {fileID: 2800000, guid: 92ac7c24ea1bf0445bb3d603fdba621b, type: 3}
+    - {fileID: 2800000, guid: 923112fa4f24ffe48b63b042d6ebb3e1, type: 3}
+    - {fileID: 2800000, guid: e92af63f356459546b900c2b9e415416, type: 3}
+    - {fileID: 2800000, guid: f9a0679a4a392bb49b8c19b8d14462a0, type: 3}
+    - {fileID: 2800000, guid: 12fd8c625539dfd43908f5ce7296b69b, type: 3}
+    - {fileID: 2800000, guid: ed4e9c79bb4ecaf418f61f66543f5ea0, type: 3}
+    - {fileID: 2800000, guid: 9ef5444a3f6c2854d95b5a21f38dc9a8, type: 3}
+    - {fileID: 2800000, guid: 1c90318c972f8a446b7533ffe47b505c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e012af00f34592c4e8cb6377518261da, type: 3}
+  - {fileID: 21300000, guid: 7bbc77c034fa3534cb92b9067f78595f, type: 3}
+  - {fileID: 21300000, guid: b202a831641954d44a7887d421c0119c, type: 3}
+  - {fileID: 21300000, guid: cd3ca16109627884ea39ef2205c9cfcd, type: 3}
+  - {fileID: 21300000, guid: 407305612e9e3c94f95d10a766178315, type: 3}
+  - {fileID: 21300000, guid: 2bd6e6228ef4b934290a35cab3c3688d, type: 3}
+  - {fileID: 21300000, guid: 12fd8c625539dfd43908f5ce7296b69b, type: 3}
+  - {fileID: 21300000, guid: 7ab71ca2bdcb18f4faf1f1a340e19ce6, type: 3}
+  - {fileID: 21300000, guid: a29bcd141f0bf854eb631c5d0f0cb373, type: 3}
+  - {fileID: 21300000, guid: 92ac7c24ea1bf0445bb3d603fdba621b, type: 3}
+  - {fileID: 21300000, guid: f6ee1d347c03458408782934f87ab83d, type: 3}
+  - {fileID: 21300000, guid: 426ef7c48dcc1e747aafd62cac26f129, type: 3}
+  - {fileID: 21300000, guid: 4af6ea15276a82f4bb3f827e8edaa03c, type: 3}
+  - {fileID: 21300000, guid: 5b7b5ce66885bbf4ea2f0b7c7a1e62e1, type: 3}
+  - {fileID: 21300000, guid: f388779788e9a1248a6d7f7f40d48e2f, type: 3}
+  - {fileID: 21300000, guid: 985512a77fd631d4bae7b04061c6080e, type: 3}
+  - {fileID: 21300000, guid: 932f25386e984564f86e695cc9bc69d4, type: 3}
+  - {fileID: 21300000, guid: 5acba648080c0a74e8a0a19e7c79b0f7, type: 3}
+  - {fileID: 21300000, guid: e4b152f8ed17d4a40b3050bc47d72dc7, type: 3}
+  - {fileID: 21300000, guid: ed4e9c79bb4ecaf418f61f66543f5ea0, type: 3}
+  - {fileID: 21300000, guid: 9ef5444a3f6c2854d95b5a21f38dc9a8, type: 3}
+  - {fileID: 21300000, guid: 6b8d238ac58efc74ca7cc81f3d9f176b, type: 3}
+  - {fileID: 21300000, guid: f9a0679a4a392bb49b8c19b8d14462a0, type: 3}
+  - {fileID: 21300000, guid: 03537cdad6ebdb447a880246a059c566, type: 3}
+  - {fileID: 21300000, guid: 923112fa4f24ffe48b63b042d6ebb3e1, type: 3}
+  - {fileID: 21300000, guid: 1c90318c972f8a446b7533ffe47b505c, type: 3}
+  - {fileID: 21300000, guid: 10c3819cd671e61488132e23d157d28b, type: 3}
+  - {fileID: 21300000, guid: e92af63f356459546b900c2b9e415416, type: 3}
+  - {fileID: 21300000, guid: 5305595f0667b8b4fb2c7074712c5422, type: 3}
+  - {fileID: 21300000, guid: 0d804eaf61544bd489977208ff100e34, type: 3}
+  - {fileID: 21300000, guid: 5637b8bf5a27fa14d85db60f22300e75, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - energy drink
+  - sprite_homeowner_3
+  - sprite_homeowner_4
+  - sprite_farmer_4
+  - chips
+  - full_bowl
+  - sprite_homeowner_2
+  - lgihtning_fizz
+  - sprite_shopper_2
+  - sprite_shopowner_1
+  - lightning
+  - green_drink
+  - Utility
+  - sprite_serviceworker_3
+  - table
+  - sprite_farmer_3
+  - bottle
+  - sprite_farmer_1
+  - empty_bowl
+  - sprite_serviceworker_2
+  - sprite_shopowner_2
+  - sprite_shopper_3
+  - sprite_shopowner_4
+  - sprite_serviceworker_4
+  - sprite_shopper_1
+  - sprite_farmer_2
+  - power_up_background
+  - sprite_shopowner_3
+  - sprite_shopper_4
+  - sprite_serviceworker_1
+  - sprite_homeowner_1
+  m_RenderDataMap: {}
+  m_Tag: comm_chaos_atlas
+  m_IsVariant: 0

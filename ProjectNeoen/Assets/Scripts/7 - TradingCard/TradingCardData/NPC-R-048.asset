@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-048
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: f5fc4a7a222c0ff4e86300b2fb892ce4, type: 3}
+  NpcJob: Wind Turbine Technician
+  JobDescription: My office is 100 metres in the air. That's right, I install, inspect
+    and maintain our wind turbines that generate renewable electricity. The business
+    end of a wind turbine is at the top, so we've got to get up there to keep them
+    running. Some say I have my head in the clouds. Some days, that's literally true!
+  EnvironmentDescriptions:
+  - Outdoor project sites
+  - Working at heights
+  - Using hands and tools to control or feel objects
+  CardStats:
+  - 100
+  - 42
+  - 0
+  - 10
+  - 13
+  - 54
+  Skills:
+  - Mechanical
+  - Computers and Electronics
+  - English Language
+  - Public Safety and Security
+  - Engineering and Technology
+  Qualifications:
+  - Certificate III or IV in electrotechnology (electrician or systems electrician)
+  - Licensing or registration required
+  SalaryPercent: 79
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: college_large_objects 1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2d6eec23c68de3c47bbff77d425097e3, type: 3}
+    - {fileID: 2800000, guid: ce79364fcc53c494facbebe9eb0ab058, type: 3}
+    - {fileID: 2800000, guid: 89b38f8f59f92f9498bff778c1595928, type: 3}
+    - {fileID: 2800000, guid: fef4c42cb718d404da12940acbfab312, type: 3}
+    - {fileID: 2800000, guid: 08fc2ce51c5a19d4e82fb1736015bbfb, type: 3}
+    - {fileID: 2800000, guid: b287d95707c4139408bf1a6cac1d6421, type: 3}
+    - {fileID: 2800000, guid: 3ad2f3d5747c9cb4a84fa4a0c6d8659e, type: 3}
+    - {fileID: 2800000, guid: 49cf5ce79f2301f4ab037e5461c76491, type: 3}
+    - {fileID: 2800000, guid: d7559847a8d34e64982f5ff049bfacfa, type: 3}
+    - {fileID: 2800000, guid: 6fe485cfcbdd0514b9b15c2e550c63b3, type: 3}
+    - {fileID: 2800000, guid: c7784f88ad1a2374c8918a4369a22e07, type: 3}
+    - {fileID: 2800000, guid: 18053e67b645b5043b7e1a00f145b510, type: 3}
+    - {fileID: 2800000, guid: 9a50b0ba3ce9b754dac593ebe2ae23ce, type: 3}
+    - {fileID: 2800000, guid: eccd4eeb34591c6408c15ec02f72f242, type: 3}
+    - {fileID: 2800000, guid: 5375c903ecf979141a7120baa18a5ee0, type: 3}
+    - {fileID: 2800000, guid: 44f2e88d29d658641ba2e6867a3a954e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5375c903ecf979141a7120baa18a5ee0, type: 3}
+  - {fileID: 21300000, guid: 2d6eec23c68de3c47bbff77d425097e3, type: 3}
+  - {fileID: 21300000, guid: 3ad2f3d5747c9cb4a84fa4a0c6d8659e, type: 3}
+  - {fileID: 21300000, guid: 08fc2ce51c5a19d4e82fb1736015bbfb, type: 3}
+  - {fileID: 21300000, guid: d7559847a8d34e64982f5ff049bfacfa, type: 3}
+  - {fileID: 21300000, guid: b287d95707c4139408bf1a6cac1d6421, type: 3}
+  - {fileID: 21300000, guid: 18053e67b645b5043b7e1a00f145b510, type: 3}
+  - {fileID: 21300000, guid: 49cf5ce79f2301f4ab037e5461c76491, type: 3}
+  - {fileID: 21300000, guid: c7784f88ad1a2374c8918a4369a22e07, type: 3}
+  - {fileID: 21300000, guid: 9a50b0ba3ce9b754dac593ebe2ae23ce, type: 3}
+  - {fileID: 21300000, guid: eccd4eeb34591c6408c15ec02f72f242, type: 3}
+  - {fileID: 21300000, guid: fef4c42cb718d404da12940acbfab312, type: 3}
+  - {fileID: 21300000, guid: 44f2e88d29d658641ba2e6867a3a954e, type: 3}
+  - {fileID: 21300000, guid: ce79364fcc53c494facbebe9eb0ab058, type: 3}
+  - {fileID: 21300000, guid: 89b38f8f59f92f9498bff778c1595928, type: 3}
+  - {fileID: 21300000, guid: 6fe485cfcbdd0514b9b15c2e550c63b3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - red car
+  - bakery
+  - college
+  - white car and charger
+  - College Sign
+  - supermarket
+  - green four wheel
+  - department store
+  - electric car charger
+  - grey car and charger
+  - purple van
+  - white bench
+  - trolley
+  - drycleaning
+  - carpark_ground
+  - blue car with charger
+  m_RenderDataMap: {}
+  m_Tag: college_large_objects 1
+  m_IsVariant: 0

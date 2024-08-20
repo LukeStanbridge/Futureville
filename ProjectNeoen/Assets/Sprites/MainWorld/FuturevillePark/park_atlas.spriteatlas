@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: park_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d034dc98d52fd2748bc6dc39348a85ad, type: 3}
+    - {fileID: 2800000, guid: c12b5423d515b9d4794d6ea4f4a79214, type: 3}
+    - {fileID: 2800000, guid: 3188f67a0e3f9d24a83c9a9e59285fd7, type: 3}
+    - {fileID: 2800000, guid: b731577aab9594f42bf0b6118a5ab8a9, type: 3}
+    - {fileID: 2800000, guid: 8f5e8fe2d05a8624f9f074487ac01d35, type: 3}
+    - {fileID: 2800000, guid: 874fe0699f6c361469bae8def9fb1aeb, type: 3}
+    - {fileID: 2800000, guid: e83f09f9a72797a48bb51afcf5d7760e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8f5e8fe2d05a8624f9f074487ac01d35, type: 3}
+  - {fileID: 21300000, guid: c12b5423d515b9d4794d6ea4f4a79214, type: 3}
+  - {fileID: 21300000, guid: d034dc98d52fd2748bc6dc39348a85ad, type: 3}
+  - {fileID: 21300000, guid: 874fe0699f6c361469bae8def9fb1aeb, type: 3}
+  - {fileID: 21300000, guid: e83f09f9a72797a48bb51afcf5d7760e, type: 3}
+  - {fileID: 21300000, guid: 3188f67a0e3f9d24a83c9a9e59285fd7, type: 3}
+  - {fileID: 21300000, guid: b731577aab9594f42bf0b6118a5ab8a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sandpit
+  - dog
+  - tail
+  - Seesaw
+  - Slide
+  - swing
+  - Futureville Park Sign
+  m_RenderDataMap: {}
+  m_Tag: park_atlas
+  m_IsVariant: 0

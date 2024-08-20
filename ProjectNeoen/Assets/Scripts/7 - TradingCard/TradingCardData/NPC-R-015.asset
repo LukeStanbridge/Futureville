@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-015
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: f0b00e8faba711b4d8c7019e4184c4cc, type: 2}
+  NpcSprite: {fileID: 21300000, guid: e06297046c938704da9bd154c2cd8949, type: 3}
+  NpcJob: Accountant / Financial Controller
+  JobDescription: What do you call an accountant without a calculator? Lonely. Sums
+    me up! I live and breathe numbers on a daily basis. I keep track of money coming
+    in and money going out for our renewable energy projects. Payroll, accounts receivable,
+    invoices, that's my happy place.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 3
+  - 42
+  - 2
+  - 18
+  - 47
+  - 100
+  Skills:
+  - Economics and Accounting
+  - English Language
+  - Mathematics
+  - Administration and Management
+  - Customer and Personal Service
+  Qualifications:
+  - Diploma, Bachelor Degree or higher qualification in accounting.
+  - Licensing or registration required
+  SalaryPercent: 10
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

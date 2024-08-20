@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pickin_teams_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 54e65f9b4b0146d499c91cfba945b77c, type: 3}
+    - {fileID: 2800000, guid: 3427398507aef3d4d9cf2fd8c2d66fbf, type: 3}
+    - {fileID: 2800000, guid: a9d0350837d446d40aafca2ad1369fc1, type: 3}
+    - {fileID: 2800000, guid: adec485fecf3e7c4db23f84382750973, type: 3}
+    - {fileID: 2800000, guid: 98411de8928d02f4ab4bdeabbdff4342, type: 3}
+    - {fileID: 2800000, guid: d7c37b98779b67540a1f2e0c6b2d73e5, type: 3}
+    - {fileID: 2800000, guid: d7aed0bd6c290c34fb890003174e5e44, type: 3}
+    - {fileID: 2800000, guid: 7d358906a57bd214b86bd31e6be672d3, type: 3}
+    - {fileID: 2800000, guid: cd3253981369d814db96a08da338a7a6, type: 3}
+    - {fileID: 2800000, guid: 254c8dc7ef2ea5243b3b3660516a892e, type: 3}
+    - {fileID: 2800000, guid: 44a295660d163a146bcf63b362b109ef, type: 3}
+    - {fileID: 2800000, guid: 524dbaade29caae46a5b67f0ccc46735, type: 3}
+    - {fileID: 2800000, guid: 5364239bbbe94fa46abebedc96f39570, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3427398507aef3d4d9cf2fd8c2d66fbf, type: 3}
+  - {fileID: 21300000, guid: 7d358906a57bd214b86bd31e6be672d3, type: 3}
+  - {fileID: 21300000, guid: 44a295660d163a146bcf63b362b109ef, type: 3}
+  - {fileID: 21300000, guid: 254c8dc7ef2ea5243b3b3660516a892e, type: 3}
+  - {fileID: 21300000, guid: a9d0350837d446d40aafca2ad1369fc1, type: 3}
+  - {fileID: 21300000, guid: cd3253981369d814db96a08da338a7a6, type: 3}
+  - {fileID: 21300000, guid: d7c37b98779b67540a1f2e0c6b2d73e5, type: 3}
+  - {fileID: 21300000, guid: 98411de8928d02f4ab4bdeabbdff4342, type: 3}
+  - {fileID: 21300000, guid: 5364239bbbe94fa46abebedc96f39570, type: 3}
+  - {fileID: 21300000, guid: 54e65f9b4b0146d499c91cfba945b77c, type: 3}
+  - {fileID: 21300000, guid: 524dbaade29caae46a5b67f0ccc46735, type: 3}
+  - {fileID: 21300000, guid: d7aed0bd6c290c34fb890003174e5e44, type: 3}
+  - {fileID: 21300000, guid: adec485fecf3e7c4db23f84382750973, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - intro_image_1
+  - 4
+  - 7
+  - 6
+  - big_4
+  - 5
+  - 2
+  - 1
+  - 9
+  - ui_panel
+  - 8
+  - 3
+  - keep_trying
+  m_RenderDataMap: {}
+  m_Tag: pickin_teams_atlas
+  m_IsVariant: 0

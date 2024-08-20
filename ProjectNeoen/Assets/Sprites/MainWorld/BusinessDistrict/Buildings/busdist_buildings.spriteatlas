@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: busdist_buildings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 50fa66d2d261c764aaf8a288c1f5532c, type: 3}
+    - {fileID: 2800000, guid: 183cc60df0d38dd4bb8bb888d0320297, type: 3}
+    - {fileID: 2800000, guid: 28c0de12c50abfa4aad1da9d2a621d94, type: 3}
+    - {fileID: 2800000, guid: 8b75a6b808f486240a350501a0b3fc8f, type: 3}
+    - {fileID: 2800000, guid: a6cb31fe4db6c394c98a065d56f9198d, type: 3}
+    - {fileID: 2800000, guid: b29cad5c13af5ee4888ddd462caaa4d7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 28c0de12c50abfa4aad1da9d2a621d94, type: 3}
+  - {fileID: 21300000, guid: 50fa66d2d261c764aaf8a288c1f5532c, type: 3}
+  - {fileID: 21300000, guid: 8b75a6b808f486240a350501a0b3fc8f, type: 3}
+  - {fileID: 21300000, guid: b29cad5c13af5ee4888ddd462caaa4d7, type: 3}
+  - {fileID: 21300000, guid: 183cc60df0d38dd4bb8bb888d0320297, type: 3}
+  - {fileID: 21300000, guid: a6cb31fe4db6c394c98a065d56f9198d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Building small brown
+  - blue_building
+  - Cafe building
+  - Office building orange
+  - Building big brown
+  - neon_building
+  m_RenderDataMap: {}
+  m_Tag: busdist_buildings
+  m_IsVariant: 0

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-050
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: f6396dd1041e38045bd332270de8c6c9, type: 3}
+  NpcJob: Crane Operator
+  JobDescription: You need something hoisted 100 metres in the air? I'm ready! I
+    operate stationary and mobile cranes, hoists, lifts and winches to construct
+    our renewable energy sites. Have you seen a massive turbine blade dangling in
+    mid-air? It's quite the sight to see!
+  EnvironmentDescriptions:
+  - Outdoor project sites
+  - Vehicle Use
+  - Hazardous or risky equipment and conditions
+  CardStats:
+  - 100
+  - 20
+  - 0
+  - 4
+  - 5
+  - 48
+  Skills:
+  - Mechanical
+  - Mathematics
+  - English Language
+  - Transportation
+  - Public Safety and Security
+  Qualifications:
+  - No formal qualification required.
+  - Certificate II or III in construction (crane operations or mobile crane operations)
+    may be useful
+  - Licensing or registration required
+  SalaryPercent: 53
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STABLE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

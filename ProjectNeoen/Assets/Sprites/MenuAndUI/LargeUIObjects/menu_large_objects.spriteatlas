@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: menu_large_objects
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 51c951c36f6b4d3409342d3fc8d8c719, type: 3}
+    - {fileID: 2800000, guid: d8b2919ac1cc9cf4f96e17b1944db639, type: 3}
+    - {fileID: 2800000, guid: 2e019f91783957a44895e1de269213b9, type: 3}
+    - {fileID: 2800000, guid: 0e1b4b24b0902894d8e8ce178d34ecf0, type: 3}
+    - {fileID: 2800000, guid: 5c06ef8023465d24d887cd74a4ce463e, type: 3}
+    - {fileID: 2800000, guid: e187b49283c9af048a56605441ad8b44, type: 3}
+    - {fileID: 2800000, guid: b18050d015a94d546ae3a39af1956aa1, type: 3}
+    - {fileID: 2800000, guid: 972b5420d01ecd349a8a580806ab46ff, type: 3}
+    - {fileID: 2800000, guid: 76f1c80cfb915fc45b0e9c7d4485c78e, type: 3}
+    - {fileID: 2800000, guid: 379af3260334e584cb930311cfc454a2, type: 3}
+    - {fileID: 2800000, guid: f8f67b463c925b74e9b805f58ac088e8, type: 3}
+    - {fileID: 2800000, guid: 3c64ca4a598dba0458bb6a31eb5cc022, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 972b5420d01ecd349a8a580806ab46ff, type: 3}
+  - {fileID: 21300000, guid: 5c06ef8023465d24d887cd74a4ce463e, type: 3}
+  - {fileID: 21300000, guid: b18050d015a94d546ae3a39af1956aa1, type: 3}
+  - {fileID: 21300000, guid: 2e019f91783957a44895e1de269213b9, type: 3}
+  - {fileID: 21300000, guid: e187b49283c9af048a56605441ad8b44, type: 3}
+  - {fileID: 21300000, guid: 51c951c36f6b4d3409342d3fc8d8c719, type: 3}
+  - {fileID: 21300000, guid: 0e1b4b24b0902894d8e8ce178d34ecf0, type: 3}
+  - {fileID: 21300000, guid: 379af3260334e584cb930311cfc454a2, type: 3}
+  - {fileID: 21300000, guid: f8f67b463c925b74e9b805f58ac088e8, type: 3}
+  - {fileID: 21300000, guid: 3c64ca4a598dba0458bb6a31eb5cc022, type: 3}
+  - {fileID: 21300000, guid: d8b2919ac1cc9cf4f96e17b1944db639, type: 3}
+  - {fileID: 21300000, guid: 76f1c80cfb915fc45b0e9c7d4485c78e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Problem solving
+  - trading_card_bg
+  - Leading and guiding
+  - Speech bubble
+  - Setting_Screen
+  - Intro_panel
+  - Character_box
+  - Working with data and detail
+  - Working with people
+  - Being creative
+  - name_label_long
+  - Working with my hands
+  m_RenderDataMap: {}
+  m_Tag: menu_large_objects
+  m_IsVariant: 0

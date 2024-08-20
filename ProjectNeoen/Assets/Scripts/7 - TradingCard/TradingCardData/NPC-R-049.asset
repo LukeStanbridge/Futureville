@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-049
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: eddf57d0260a7894eb9cb3bcfab7fab8, type: 3}
+  NpcJob: Operations Controller
+  JobDescription: The fact you can flick a switch and get renewable energy in your
+    home is down to me. I coordinate, regulate, and distribute our clean electricity
+    to the grid. I wouldn't say I'm all powerful, but from our control centre, I
+    have your power in my hands! It can be a solitary job, but I have the glow of
+    my many screens for company!
+  EnvironmentDescriptions:
+  - Indoor Office
+  - Working with computers & multiple screens
+  - Working in a control room, including shift work (nights)
+  CardStats:
+  - 68
+  - 25
+  - 0
+  - 16
+  - 33
+  - 68
+  Skills:
+  - Public Safety and Security
+  - English Language
+  - Engineering and Technology
+  - Computers and Electronics
+  - Mechanical
+  Qualifications:
+  - Certificate III or IV in electrotechnology (electrician or systems electrician)
+  - Licensing or registration required
+  SalaryPercent: 79
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

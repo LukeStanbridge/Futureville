@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-053
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 1cb18ca87c320a9499e02589c2d890a7, type: 3}
+  NpcJob: Construction Rigger
+  JobDescription: Need something heavy lifted, lowered, moved or positioned? You
+    bet you need me. I assemble and install rigging gear, such as cables, ropes,
+    pulleys and winches. You'll see me working closely with Crane Operators making
+    sure our turbines get lifted safely and securely. You might call me Shackle-ton...
+  EnvironmentDescriptions:
+  - Outdoor project sites
+  - Physical exertion
+  - Using hands and tools to control or feel objects
+  CardStats:
+  - 100
+  - 23
+  - 7
+  - 0
+  - 15
+  - 45
+  Skills:
+  - Mechanical
+  - Production and Processing
+  - Public Safety and Security
+  - Customer and Personal Service
+  - Administration and Management
+  Qualifications:
+  - No formal qualification required.
+  - Certificate II or III (Civil construction) may be useful
+  - Licensing or registration required
+  SalaryPercent: 10
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: DECLINE
+  DemandExpectation: 'in future demand
+
+    expected'
+  Commish: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-031
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: e084cc5c836f84a45800df4ea9ed8a2b, type: 3}
+  NpcJob: Geologist / Geotechnical Engineer
+  JobDescription: I'm all about what's under your feet. The earth! My job is to study
+    the composition, structure and other physical attributes under the ground. I
+    make sure when we build renewable energy sites, particularly the big wind turbines,
+    we're on stable ground. No one wants a turbine disappearing into a sink hole!
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Sometimes outdoors on project sites
+  CardStats:
+  - 84
+  - 78
+  - 9
+  - 14
+  - 28
+  - 62
+  Skills:
+  - Engineering and Technology
+  - Mathematics
+  - Design
+  - English Language
+  - Production and Processing
+  Qualifications:
+  - Bachelor Degree or higher qualification in engineering (technical)
+  - Licensing or registration required
+  SalaryPercent: 39
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-004
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 8dc1243922359634fa51a897b2a7055d, type: 2}
+  NpcSprite: {fileID: 21300000, guid: b83b841408312554ab93728b61704888, type: 3}
+  NpcJob: Community Engagement Manager
+  JobDescription: In my job you've gotta love talking to people, and I sure do! I
+    go out into communities and tell them what's happening in renewable energy in
+    their area. I listen to their concerns, and we work together on solutions. The
+    favourite part of my job is having a cuppa and a yarn with a farmer.
+  EnvironmentDescriptions:
+  - Indoor office and onsite at project sites
+  - Meeting people in the community
+  - Working at a computer
+  CardStats:
+  - 0
+  - 30
+  - 62
+  - 49
+  - 80
+  - 41
+  Skills:
+  - Communications and Media
+  - English Language
+  - Administration and Management
+  - Customer and Personal Service
+  - Sales and Marketing
+  Qualifications:
+  - Bachelor Degree or higher qualification in community engagement, advertising,
+    marketing and communication or media studies.
+  - University, VET and IAP2 are all common study pathways
+  SalaryPercent: 60
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

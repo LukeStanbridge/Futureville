@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-017
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: f0b00e8faba711b4d8c7019e4184c4cc, type: 2}
+  NpcSprite: {fileID: 21300000, guid: e913416a52aaef14e8f68db56e21ced5, type: 3}
+  NpcJob: Market Analyst
+  JobDescription: No, I'm not clairvoyant, but it is my job to analyse and predict
+    the ups and downs of the energy market. Where are the business opportunities
+    in the transition from a centralised energy system to a decentralised renewable
+    one? It's my detailed analysis that gives us the best chance of success.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  CardStats:
+  - 0
+  - 68
+  - 15
+  - 22
+  - 66
+  - 76
+  Skills:
+  - Economics and Accounting
+  - English Language
+  - Mathematics
+  - Sales and Marketing
+  - Computers and Electronics
+  Qualifications:
+  - Bachelor Degree or higher qualification in engineering, commerce, accounting,
+    economics or actuarial studies.
+  - Some workers have a VET qualification
+  - Licensing or registration may be required
+  SalaryPercent: 68
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STABLE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

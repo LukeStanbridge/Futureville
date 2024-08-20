@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: townhall_area
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5493509b97ccabf45bfdb986d8cb716c, type: 3}
+    - {fileID: 2800000, guid: 43d176611ce659f46953f38b61c98c4b, type: 3}
+    - {fileID: 2800000, guid: 14b39a874b478ee45a8a1d4876a263bd, type: 3}
+    - {fileID: 2800000, guid: 8e751cecb01d94f41ae7a5232370ae8f, type: 3}
+    - {fileID: 2800000, guid: 892453c5314cd4944a695924b7b2ed01, type: 3}
+    - {fileID: 2800000, guid: fc4bf2ad598cce344b88f4370bd51654, type: 3}
+    - {fileID: 2800000, guid: 719aa47f51a5c8949908e1cf4350e598, type: 3}
+    - {fileID: 2800000, guid: f25712ef45913704e8d10d896319f2ee, type: 3}
+    - {fileID: 2800000, guid: 0f26e8598884d284cb425bf16c7adf26, type: 3}
+    - {fileID: 2800000, guid: 931347e3aadb4f949b65df9167b36176, type: 3}
+    - {fileID: 2800000, guid: decfcab2c9b1c7a4bba07c2327f24999, type: 3}
+    - {fileID: 2800000, guid: d07cac096b4c0ae44af3325054b3dd31, type: 3}
+    - {fileID: 2800000, guid: de8b906ea07be954e934568c7912eece, type: 3}
+    - {fileID: 2800000, guid: 1595d00d10ee7da4ba778452c6c836bc, type: 3}
+    - {fileID: 2800000, guid: 76b034061eac9024ca2d383d93b5437f, type: 3}
+    - {fileID: 2800000, guid: 52b4453c740fb5149b4956082028f1e8, type: 3}
+    - {fileID: 2800000, guid: 083c2908dd8dcec4db122f6a89e1cde1, type: 3}
+    - {fileID: 2800000, guid: 80db11ad1e3ab4c4998ea51e12a571c1, type: 3}
+    - {fileID: 2800000, guid: a3e339deeab71d3488f4c2c5a8fdb28c, type: 3}
+    - {fileID: 2800000, guid: 39833c5b89f2cec42b7b2e808832a94c, type: 3}
+    - {fileID: 2800000, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+    - {fileID: 2800000, guid: 0ba8b55814dd2704188ddc68e768155a, type: 3}
+    - {fileID: 2800000, guid: a91f0aae5d9b0814193835ff01318992, type: 3}
+    - {fileID: 2800000, guid: e9dde43b8a43a1142b2e7d6b0c3c19a0, type: 3}
+    - {fileID: 2800000, guid: c223416fec75e624fa1a78e7065325e6, type: 3}
+    - {fileID: 2800000, guid: a13a7520116b9724b82bccda058ec6e2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a13a7520116b9724b82bccda058ec6e2, type: 3}
+  - {fileID: -1066286610, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: 36045948, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -512375797, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -282391139, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: 89167216, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -574684230, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -28847895, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -2026557200, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -1195149952, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -835066846, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: 2078041269, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: -1095340384, guid: 54f7b0215275b574da1fcef19b237a3e, type: 3}
+  - {fileID: 21300000, guid: 43d176611ce659f46953f38b61c98c4b, type: 3}
+  - {fileID: 21300000, guid: decfcab2c9b1c7a4bba07c2327f24999, type: 3}
+  - {fileID: 21300000, guid: 931347e3aadb4f949b65df9167b36176, type: 3}
+  - {fileID: 21300000, guid: 892453c5314cd4944a695924b7b2ed01, type: 3}
+  - {fileID: 21300000, guid: 76b034061eac9024ca2d383d93b5437f, type: 3}
+  - {fileID: 21300000, guid: 14b39a874b478ee45a8a1d4876a263bd, type: 3}
+  - {fileID: 21300000, guid: 083c2908dd8dcec4db122f6a89e1cde1, type: 3}
+  - {fileID: 21300000, guid: 0ba8b55814dd2704188ddc68e768155a, type: 3}
+  - {fileID: 21300000, guid: d07cac096b4c0ae44af3325054b3dd31, type: 3}
+  - {fileID: 21300000, guid: 0f26e8598884d284cb425bf16c7adf26, type: 3}
+  - {fileID: 21300000, guid: e9dde43b8a43a1142b2e7d6b0c3c19a0, type: 3}
+  - {fileID: 21300000, guid: 39833c5b89f2cec42b7b2e808832a94c, type: 3}
+  - {fileID: 21300000, guid: 5493509b97ccabf45bfdb986d8cb716c, type: 3}
+  - {fileID: 21300000, guid: 52b4453c740fb5149b4956082028f1e8, type: 3}
+  - {fileID: 21300000, guid: 8e751cecb01d94f41ae7a5232370ae8f, type: 3}
+  - {fileID: 21300000, guid: 1595d00d10ee7da4ba778452c6c836bc, type: 3}
+  - {fileID: 21300000, guid: 80db11ad1e3ab4c4998ea51e12a571c1, type: 3}
+  - {fileID: 21300000, guid: fc4bf2ad598cce344b88f4370bd51654, type: 3}
+  - {fileID: 21300000, guid: de8b906ea07be954e934568c7912eece, type: 3}
+  - {fileID: 21300000, guid: a91f0aae5d9b0814193835ff01318992, type: 3}
+  - {fileID: 21300000, guid: a3e339deeab71d3488f4c2c5a8fdb28c, type: 3}
+  - {fileID: 21300000, guid: c223416fec75e624fa1a78e7065325e6, type: 3}
+  - {fileID: 21300000, guid: 719aa47f51a5c8949908e1cf4350e598, type: 3}
+  - {fileID: 21300000, guid: f25712ef45913704e8d10d896319f2ee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Street Lamp
+  - obj_flag_flutter_10
+  - obj_flag_flutter_11
+  - obj_flag_flutter_9
+  - obj_flag_flutter_8
+  - obj_flag_flutter_1
+  - obj_flag_flutter_0
+  - obj_flag_flutter_3
+  - obj_flag_flutter_2
+  - obj_flag_flutter_5
+  - obj_flag_flutter_4
+  - obj_flag_flutter_7
+  - obj_flag_flutter_6
+  - Shop 2
+  - Building 3
+  - Building 2
+  - Shop 5
+  - Town Square Sign
+  - Shop 3
+  - Bike
+  - Fountain
+  - Fire Station
+  - Building 1
+  - Large Planter
+  - direction sign v2
+  - Shop 1
+  - Bench
+  - Shop 4
+  - Tree_Small
+  - Bush_Big
+  - Town_Hall
+  - mayorsoffice_noflag
+  - Green Car
+  - Bush_Small
+  - Pot plant
+  - Police station
+  - Post Office
+  m_RenderDataMap: {}
+  m_Tag: townhall_area
+  m_IsVariant: 0

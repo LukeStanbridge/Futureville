@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-029
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: ddbf9a8f92c2266429a495e18f7d425f, type: 3}
+  NpcJob: Operations & Maintenance Engineer
+  JobDescription: Keeping things running efficiently on renewable energy sites, that's
+    my job. I work to ensure the continued performance of our equipment, like wind
+    turbines and solar arrays. Keeping things maintained, designing improvements
+    and implementing upgrades, keeps renewable energy flowing.
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Sometimes outdoors on project sites
+  CardStats:
+  - 70
+  - 61
+  - 18
+  - 8
+  - 33
+  - 58
+  Skills:
+  - Mechanical
+  - Building and Construction
+  - English Language
+  - Mathematics
+  - Production and processing
+  Qualifications:
+  - Bachelor Degree or higher qualification in engineering (Mechanical and Industrial
+    Engineering and Technology)
+  - Licensing or registration required
+  SalaryPercent: 51
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: MODERATE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

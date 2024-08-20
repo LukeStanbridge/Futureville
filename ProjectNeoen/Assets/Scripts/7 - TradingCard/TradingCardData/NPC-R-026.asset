@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-026
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 326f8b6fe873c4545b2c6962de34f667, type: 3}
+  NpcJob: Wind Engineer
+  JobDescription: I design wind farms so we can turn wind into renewable energy.
+    What turbines we use, where we place them, and how to improve their performance,
+    that's all me. Show me a topographical map and some historical wind speed data
+    and I'm happy!
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Sometimes outdoors on project sites
+  CardStats:
+  - 88
+  - 59
+  - 20
+  - 7
+  - 34
+  - 52
+  Skills:
+  - Engineering and Technology
+  - Mathematics
+  - Design
+  - Physics
+  - English Language
+  Qualifications:
+  - Bachelor Degree or higher qualification in engineering majoring in electrical.
+  - Prior work as an Electrical Engineer
+  - Licensing or registration required
+  SalaryPercent: 59
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

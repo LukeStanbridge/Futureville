@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: boss_battle_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 85573c47e6fb9db4a9f0384b2a5d71bb, type: 3}
+    - {fileID: 2800000, guid: 2363121cb58dcc7449b662bd9cc3b37c, type: 3}
+    - {fileID: 2800000, guid: 59c4210186bc78542a728c6d77fc2e2f, type: 3}
+    - {fileID: 2800000, guid: 485b410fa3877144ca95305a806c3d3a, type: 3}
+    - {fileID: 2800000, guid: e35e79ce34b2a5545a059266e6c63802, type: 3}
+    - {fileID: 2800000, guid: e935bb7e565e7e04b8e53368d7b9dc07, type: 3}
+    - {fileID: 2800000, guid: 22452839aa0feed4dbd38bfc279a9c14, type: 3}
+    - {fileID: 2800000, guid: 1fe6d25409175b140ad68c49db49eef2, type: 3}
+    - {fileID: 2800000, guid: 9144b278c4d5a304b932af7b20fb124a, type: 3}
+    - {fileID: 2800000, guid: 65a9468210137aa49a82f030ffdbb4e4, type: 3}
+    - {fileID: 2800000, guid: 34a9bded545a87b4d9a877b0c4af42fc, type: 3}
+    - {fileID: 2800000, guid: 1ad99a13daeee2c49bb54744048ee0f8, type: 3}
+    - {fileID: 2800000, guid: 23bd73bb39314564a859ffdb85ff3df9, type: 3}
+    - {fileID: 2800000, guid: 10fca46e89df43a48a97514c32f91a76, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 59c4210186bc78542a728c6d77fc2e2f, type: 3}
+  - {fileID: 21300000, guid: 65a9468210137aa49a82f030ffdbb4e4, type: 3}
+  - {fileID: 21300000, guid: 1ad99a13daeee2c49bb54744048ee0f8, type: 3}
+  - {fileID: 21300000, guid: 1fe6d25409175b140ad68c49db49eef2, type: 3}
+  - {fileID: 21300000, guid: 85573c47e6fb9db4a9f0384b2a5d71bb, type: 3}
+  - {fileID: 21300000, guid: 9144b278c4d5a304b932af7b20fb124a, type: 3}
+  - {fileID: 21300000, guid: 22452839aa0feed4dbd38bfc279a9c14, type: 3}
+  - {fileID: 21300000, guid: 23bd73bb39314564a859ffdb85ff3df9, type: 3}
+  - {fileID: 21300000, guid: 2363121cb58dcc7449b662bd9cc3b37c, type: 3}
+  - {fileID: 21300000, guid: 34a9bded545a87b4d9a877b0c4af42fc, type: 3}
+  - {fileID: 21300000, guid: 10fca46e89df43a48a97514c32f91a76, type: 3}
+  - {fileID: 21300000, guid: e935bb7e565e7e04b8e53368d7b9dc07, type: 3}
+  - {fileID: 21300000, guid: e35e79ce34b2a5545a059266e6c63802, type: 3}
+  - {fileID: 21300000, guid: 485b410fa3877144ca95305a806c3d3a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - response_box_yellow
+  - round_text_box
+  - response_bg_green
+  - round_number_box
+  - response_bg_blue
+  - response_bg_yellow
+  - mayor_text_box
+  - total_text_box
+  - dice_background
+  - round_total_box
+  - ui_panel
+  - response_box_blue
+  - intro_image
+  - response_box_green
+  m_RenderDataMap: {}
+  m_Tag: boss_battle_atlas
+  m_IsVariant: 0

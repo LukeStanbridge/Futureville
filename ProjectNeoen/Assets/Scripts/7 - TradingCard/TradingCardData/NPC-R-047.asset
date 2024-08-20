@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-047
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 91bcf0d773e2ef34982270ef168da867, type: 3}
+  NpcJob: High Voltage Operator
+  JobDescription: You can generate as much renewable energy as you like, but without
+    me it's not going anywhere. I connect the high voltage electricity grid together.
+    Underground conduits, overhead lines, you name it I'm connecting it. It's thanks
+    to me that we can move electricity from site to substation to the community.
+  EnvironmentDescriptions:
+  - Outdoor project sites & substations
+  - Using hands and tools to control or feel objects
+  - Working at heights
+  CardStats:
+  - 100
+  - 28
+  - 0
+  - 4
+  - 13
+  - 45
+  Skills:
+  - Building and Construction
+  - English Language
+  - Education and Training
+  - Public Safety and Security
+  - Transportation
+  Qualifications:
+  - Certificate III or IV electrical power line or cable joining
+  - Often part of an apprenticeship.
+  - Licensing or registration required
+  SalaryPercent: 56
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: DECLINE
+  DemandExpectation: 'in future demand
+
+    expected'
+  Commish: 0

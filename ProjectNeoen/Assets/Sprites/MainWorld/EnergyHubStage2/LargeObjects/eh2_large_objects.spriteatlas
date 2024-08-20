@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: eh2_large_objects
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 064d544b72488584c8c49ae422a5a2e6, type: 3}
+    - {fileID: 2800000, guid: 48e37ee92851f864da816ea9a92643bb, type: 3}
+    - {fileID: 2800000, guid: fd2942dc17d52d740be531199281d444, type: 3}
+    - {fileID: 2800000, guid: 5ad616199f47a5a4aa80c6d41b02a681, type: 3}
+    - {fileID: 2800000, guid: 1a24c59e200e4ae46886ea2ce86f9d3e, type: 3}
+    - {fileID: 2800000, guid: 111a335546206df4c9b8dd2467242777, type: 3}
+    - {fileID: 2800000, guid: 36aca3344ac14104a94ca2cf2d630957, type: 3}
+    - {fileID: 2800000, guid: 7c9801040a8d1df47aec4c371a4096e0, type: 3}
+    - {fileID: 2800000, guid: a21abcd8ecef7094faf0062ea47c86fe, type: 3}
+    - {fileID: 2800000, guid: 4122e01edf65a62478cd8b6f5a8d4632, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7c9801040a8d1df47aec4c371a4096e0, type: 3}
+  - {fileID: 21300000, guid: 36aca3344ac14104a94ca2cf2d630957, type: 3}
+  - {fileID: 21300000, guid: 111a335546206df4c9b8dd2467242777, type: 3}
+  - {fileID: 21300000, guid: a21abcd8ecef7094faf0062ea47c86fe, type: 3}
+  - {fileID: 21300000, guid: 5ad616199f47a5a4aa80c6d41b02a681, type: 3}
+  - {fileID: 21300000, guid: 48e37ee92851f864da816ea9a92643bb, type: 3}
+  - {fileID: 21300000, guid: 064d544b72488584c8c49ae422a5a2e6, type: 3}
+  - {fileID: 21300000, guid: fd2942dc17d52d740be531199281d444, type: 3}
+  - {fileID: 21300000, guid: 4122e01edf65a62478cd8b6f5a8d4632, type: 3}
+  - {fileID: 21300000, guid: 1a24c59e200e4ae46886ea2ce86f9d3e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Lower Hill
+  - turbine_blades
+  - Upper Hill
+  - turbine_pole
+  - Truck
+  - turbine_base_mural
+  - lake_mask
+  - Truck_Yellow
+  - hanging_blade
+  - lake_new
+  m_RenderDataMap: {}
+  m_Tag: eh2_large_objects
+  m_IsVariant: 0

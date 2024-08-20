@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-011
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 0da2575d6bca52d43ae6b1b5e29444e2, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 2091f5d94b10f9f44beeddd2902a0b47, type: 3}
+  NpcJob: Policy Analyst
+  JobDescription: Our industry moves faster than the regulations can keep up with!
+    I keep on top of government policy developments related to energy, to ensure
+    we remain compliant. I analyse policy, prepare briefing papers, and advise on
+    how to respond to changes in the regulatory environment. Everyone knows the lay
+    of the land when I'm on the team!
+  EnvironmentDescriptions:
+  - Indoor office
+  - Working at a computer
+  - Working with others
+  CardStats:
+  - 6
+  - 95
+  - 34
+  - 36
+  - 63
+  - 51
+  Skills:
+  - Law and Governement
+  - English Language
+  - Communications and Media
+  - Engineering and Technology
+  - Administration and Management
+  Qualifications:
+  - Bachelor Degree or higher qualification in political science and policy studies.
+  - 'Relevant work experience. '
+  SalaryPercent: 43
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

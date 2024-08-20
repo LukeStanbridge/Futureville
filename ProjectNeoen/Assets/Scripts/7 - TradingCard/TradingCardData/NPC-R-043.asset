@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-043
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 12b604b5662503c4fb90535879a8c86c, type: 3}
+  NpcJob: Metal Fitter and Turner
+  JobDescription: If it needs to be made from metal, I'm on it! I fit, assemble,
+    grind and shape metal parts and tools for our renewable energy projects. It's
+    all about precision in this business. I work to detailed plans to fabricate what
+    we need. I'm the Michelangelo of metal!
+  EnvironmentDescriptions:
+  - Outdoor project sites
+  - Using hands and tools to control or feel objects
+  - Uncomfortable sounds or noise levels
+  CardStats:
+  - 100
+  - 28
+  - 11
+  - 0
+  - 2
+  - 48
+  Skills:
+  - Mechanical
+  - Mathematics
+  - Building and Construction
+  - Design
+  - English Language
+  Qualifications:
+  - Certificate III or IV in engineering - mechanical trade
+  - Often part of an apprenticeship.
+  SalaryPercent: 33
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STABLE
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

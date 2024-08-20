@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: residential_building_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4f46facc26364444db09ed03aaba1f46, type: 3}
+    - {fileID: 2800000, guid: 5d123b03b8f4bcf48aa374f0883677e6, type: 3}
+    - {fileID: 2800000, guid: a9435ee650d628d40ab1f50288abc598, type: 3}
+    - {fileID: 2800000, guid: 730e8e1e2e740f04f94dbee6fd2d2833, type: 3}
+    - {fileID: 2800000, guid: 78bb885b8f0dfb14bb1b0f129648006e, type: 3}
+    - {fileID: 2800000, guid: 6c88caba5c12a1c43a8141ddd6fb8355, type: 3}
+    - {fileID: 2800000, guid: e9a36b9dcbe971a4a9ce82ed0eec4b5c, type: 3}
+    - {fileID: 2800000, guid: d71e019555188a040b3b2669fcfff091, type: 3}
+    - {fileID: 2800000, guid: 3b95feda70bb66d4a85030304232ed02, type: 3}
+    - {fileID: 2800000, guid: 4f7fe1913e206494589a3d4b934c98d1, type: 3}
+    - {fileID: 2800000, guid: 930fcce176868ea44b1a356d67c0dfb6, type: 3}
+    - {fileID: 2800000, guid: 4d98b1a8bbaadd9408ca4203406f786d, type: 3}
+    - {fileID: 2800000, guid: 773e9379d92a20c44acf74340e986ba6, type: 3}
+    - {fileID: 2800000, guid: 998ae2bc252e4c14e9efe13ae3aab968, type: 3}
+    - {fileID: 2800000, guid: 7d5a0ac757692d548aa7f5f10e59869d, type: 3}
+    - {fileID: 2800000, guid: 9e0e4bfe325fcef4fbd106e8470c619b, type: 3}
+    - {fileID: 2800000, guid: c2e90b5489f4f944aa8d18de90936512, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4f7fe1913e206494589a3d4b934c98d1, type: 3}
+  - {fileID: 21300000, guid: 930fcce176868ea44b1a356d67c0dfb6, type: 3}
+  - {fileID: 21300000, guid: 5d123b03b8f4bcf48aa374f0883677e6, type: 3}
+  - {fileID: 21300000, guid: c2e90b5489f4f944aa8d18de90936512, type: 3}
+  - {fileID: 21300000, guid: d71e019555188a040b3b2669fcfff091, type: 3}
+  - {fileID: 21300000, guid: a9435ee650d628d40ab1f50288abc598, type: 3}
+  - {fileID: 21300000, guid: 7d5a0ac757692d548aa7f5f10e59869d, type: 3}
+  - {fileID: 21300000, guid: 4d98b1a8bbaadd9408ca4203406f786d, type: 3}
+  - {fileID: 21300000, guid: 773e9379d92a20c44acf74340e986ba6, type: 3}
+  - {fileID: 21300000, guid: 6c88caba5c12a1c43a8141ddd6fb8355, type: 3}
+  - {fileID: 21300000, guid: 3b95feda70bb66d4a85030304232ed02, type: 3}
+  - {fileID: 21300000, guid: 78bb885b8f0dfb14bb1b0f129648006e, type: 3}
+  - {fileID: 21300000, guid: 998ae2bc252e4c14e9efe13ae3aab968, type: 3}
+  - {fileID: 21300000, guid: 4f46facc26364444db09ed03aaba1f46, type: 3}
+  - {fileID: 21300000, guid: e9a36b9dcbe971a4a9ce82ed0eec4b5c, type: 3}
+  - {fileID: 21300000, guid: 730e8e1e2e740f04f94dbee6fd2d2833, type: 3}
+  - {fileID: 21300000, guid: 9e0e4bfe325fcef4fbd106e8470c619b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - petshop
+  - Pizzashop
+  - bakery
+  - cafe truck
+  - building
+  - bar
+  - white house
+  - red house
+  - tall blue house
+  - brown house green roof
+  - CommunityCentre
+  - brown house blue roof
+  - yellow tall house
+  - alteration shop
+  - brown house
+  - blue house small
+  - yellow house
+  m_RenderDataMap: {}
+  m_Tag: residential_building_atlas
+  m_IsVariant: 0

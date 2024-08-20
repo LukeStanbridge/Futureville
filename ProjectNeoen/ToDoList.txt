@@ -1,0 +1,149 @@
+ghosting website login - lukestanbridge48@gmail.com - shrug6APLOMB_republic
+PARSEC: luke.parsec@floodlightcontent.com - pickle*RAVENING0oversee
+
+*** PRIORITY TASKS ***
+	
+	OPTIMISATION
+	- Clean up project
+	- disable non objective npcs from animating, maybe unload assets as well
+
+	FUTURE
+	- player not changing direction on npc clicking when still walking, stuck in transition sometimes
+	- Tapping on screen causes iPad to think you are typing
+
+	KEEP AN EYE ON
+	- need to double click on buttons sometimes while playing in WebGL
+	
+	BUGS
+	- npc talk icon drifting upwards on close and re-open
+	- electron grab touch controls getting stuck when pressed down (Unity Bug)
+	- electron grab centre placement of game
+	- community chaos not in correct position
+	
+	ME TASKS
+	- update main scene to same format as mini games
+	- refactor messy code
+	- Remove excess UI Prefabs not being used
+	- Remove excess UI Sprites not being used
+	
+	ART
+
+	MAYBE
+	- show how many cards collected (e.g 1 out of 59)
+	- unintentional one armed slander
+	- location popup sits in front of settings and trading cards
+	- disable button functionality on background objects when settings open
+
+*** START MENU SYSTEM ***
+	
+	- Create post processing effects if needed
+	- Add game and UI sounds 
+
+*** CHARACTER SELECT SYSTEM ***
+
+	- Create post processing effects if needed
+	- Add game and UI sounds 
+
+*** IN-GAME MENU SYSTEM ***
+
+	- Create post processing effects if needed
+	- Add game and UI sounds
+
+*** SOUND/AUDIO SYSTEM ***
+
+	- Update sounds as required
+
+*** MAIN GAME WORLD ***
+
+	- Create post processing effects if needed
+	- Add game and UI sounds 
+
+*** NPC DIALOGUE SYSTEM ***
+	
+	- Create post processing effects if needed
+	- Add game and UI sounds 
+
+*** TRADING CARD SYSTEM ***
+
+	- Create post processing effects if needed
+	- Add menu and UI sounds
+
+*** MINI-GAME MENU SYSTEM ***
+	
+	- Create post processing effects if needed
+	- Add menu and UI sounds 
+
+*** CommunityChaos ***
+
+	(DETAIL) Only accessible when playing the Social persona interacting with the Community Engagement Manager NPC in the Residential area (Community centre)
+	
+	- Refactor and tidy up code
+
+*** Scrambled ***
+
+	(DETAIL) Only accessible when playing the Artistic persona interacting with the Communications Manager NPC in the Main Street (Local TV Station)
+
+	- Refactor and tidy up code
+
+*** Electron Grab ***
+
+	(DETAIL) Only accessible when playing the Realistic persona interacting with the Service Technician NPC in the Rural farmland area (Energy Hub phase 1)
+	
+	- Refactor and tidy up code
+
+*** Pickin' Teams ***
+
+	(DETAIL) Only accessible when playing the Conventional persona interacting with the Development Project Manager NPC in the Business district area (Energy Hub Office)
+
+	- Refactor and tidy up code
+
+*** Boss Battle ***
+
+	(DETAIL) Only accessible when playing the Enterprising persona interacting with the Lawyer NPC in the Old town area (Town hall)
+	
+	- Refactor and tidy up code
+
+*** Maximum Power ***
+
+	(DETAIL) Only accessible when playing the Investigative persona interacting with the Ecologist NPC in the Natural area (Energy Hub phase 2)
+	
+	- Refactor and tidy up code
+
+
+*** ART ASSET OPTIMISATION ***
+
+	Audio - shorter audio loops for ambience, game intro song and electron grab mini game tune
+
+	Energy Hub Stage 2 - split up lake sprite and delete mask, fewer tree and lake rock variants, split tree and koala
+	Energy Hub Stage 1 - split up powerplant and substation, split big battery, split fence pieces
+	College Area - split department store, split cars and charging station
+	Business District - split chairs and umbrella, split bushes, re-use cars from college area
+	Futureville Park - nothing
+	Animals - shrink bird animations and just use one colour bird, shrink kangaroo animation
+	Residential Area - split cars and other objects from houses and re-use cars from college area
+	Townhall Area - re-use car from college area
+	Rural Roads - nothing
+	Urban Roads - nothing
+			
+	MiniGamesUIPanels - make one version of all copied panels
+
+	Max Power - not much
+	Boss Battle - smaller mayor animations
+	Community Chaos - smaller window animations 
+	Electron grab - maybe get rid of extra controls image and extra black(L/R) button background
+	Pickin Teams - not much
+	Scrambled - not much
+
+	Animated Logos - maybe re-visit max power
+	Character - smaller idle and special animations for each char;
+	Menu and UI - split persona box into 1 white persona box, minor button removals
+	Mini Game Setup - minor button removals
+	NPC's - smaller objective NPC animations for idle and helpd
+	Trading Cards - HEAPS
+	UFO's - ufo ray is expensive, can we shrink
+	
+	
+	
+
+
+	

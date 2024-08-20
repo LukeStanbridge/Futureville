@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: scrambled
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -829074246, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: -414104244, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 1871627497, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 917383074, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 851326370, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 667533789, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 1301402259, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 1746494112, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: -1747709330, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: -2051252453, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  - {fileID: 279026268, guid: a556511e294c36b4e8900cf87f222557, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - scrambled_logo_1
+  - scrambled_logo_0
+  - scrambled_logo_3
+  - scrambled_logo_2
+  - scrambled_logo_5
+  - scrambled_logo_4
+  - scrambled_logo_7
+  - scrambled_logo_6
+  - scrambled_logo_9
+  - scrambled_logo_8
+  - scrambled_logo_10
+  m_RenderDataMap: {}
+  m_Tag: scrambled
+  m_IsVariant: 0

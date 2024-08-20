@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f023959d69d96468d6443115704d87, type: 3}
+  m_Name: NPC-R-046
+  m_EditorClassIdentifier: 
+  CardType: {fileID: 11400000, guid: 55a81c34da49fdc48bef34f856864717, type: 2}
+  NpcSprite: {fileID: 21300000, guid: 763f9aa1980a27c45b4ad7d3b430b275, type: 3}
+  NpcJob: Electrician
+  JobDescription: You can't have renewable energy without us Electricians! I design,
+    install, test, and maintain electrical systems, circuits, equipment, and facilities
+    for our renewable energy projects. It's intricate and complex electrical circuitry,
+    but for us skilled Sparky's we keep working till it Hertz... get it?!
+  EnvironmentDescriptions:
+  - Outdoor project sites
+  - Physical exertion
+  - Using hands and tools to control or feel objects
+  CardStats:
+  - 100
+  - 28
+  - 5
+  - 4
+  - 14
+  - 54
+  Skills:
+  - Building and Construction
+  - Administration and Management
+  - Mechanical
+  - Mathematics
+  - Design
+  Qualifications:
+  - Certificate III or IV in electrotechnology (electrician or systems electrician)
+  - Often part of an apprenticeship.
+  - Licensing or registration required
+  SalaryPercent: 33
+  SalaryAdjustment: 'higher
+
+    salary'
+  FutureDemand: STRONG
+  DemandExpectation: 'future demand
+
+    expected'
+  Commish: 0

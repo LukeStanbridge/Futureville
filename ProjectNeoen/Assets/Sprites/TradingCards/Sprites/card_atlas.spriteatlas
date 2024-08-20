@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: card_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8cdfff065b3ac7245b41fa1e0bcc10d8, type: 3}
+    - {fileID: 2800000, guid: 197f44efbaaa30d46b0e9ebe6fd87c59, type: 3}
+    - {fileID: 2800000, guid: 61ac8550e5a93b749aaad35771f7d436, type: 3}
+    - {fileID: 2800000, guid: 90e315c5e8219ef4aba23d317077ace2, type: 3}
+    - {fileID: 2800000, guid: b7ce02930159b19488be0a540d634c0d, type: 3}
+    - {fileID: 2800000, guid: 886b6a14d884d114eba7b8f936922058, type: 3}
+    - {fileID: 2800000, guid: c9a2835556db9da4798edb5a6b7fc950, type: 3}
+    - {fileID: 2800000, guid: 21d6d446ef453b94f9719ad2c5703a22, type: 3}
+    - {fileID: 2800000, guid: 0dbda5304264cb64aa0fa9f2b7a8e2a7, type: 3}
+    - {fileID: 2800000, guid: 9dfa94b72884a744bbd59089cefeab41, type: 3}
+    - {fileID: 2800000, guid: 32810407f367dee429526adacf7f2b1c, type: 3}
+    - {fileID: 2800000, guid: 3388e5aacff43d94284ea1ee28bd60d1, type: 3}
+    - {fileID: 2800000, guid: b5d8c92de9aaa6a45a2123e233e69d12, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0dbda5304264cb64aa0fa9f2b7a8e2a7, type: 3}
+  - {fileID: 21300000, guid: 61ac8550e5a93b749aaad35771f7d436, type: 3}
+  - {fileID: 21300000, guid: b7ce02930159b19488be0a540d634c0d, type: 3}
+  - {fileID: 21300000, guid: 886b6a14d884d114eba7b8f936922058, type: 3}
+  - {fileID: 21300000, guid: c9a2835556db9da4798edb5a6b7fc950, type: 3}
+  - {fileID: 21300000, guid: 90e315c5e8219ef4aba23d317077ace2, type: 3}
+  - {fileID: 21300000, guid: 8cdfff065b3ac7245b41fa1e0bcc10d8, type: 3}
+  - {fileID: 21300000, guid: 21d6d446ef453b94f9719ad2c5703a22, type: 3}
+  - {fileID: 21300000, guid: 32810407f367dee429526adacf7f2b1c, type: 3}
+  - {fileID: 21300000, guid: 9dfa94b72884a744bbd59089cefeab41, type: 3}
+  - {fileID: 21300000, guid: 3388e5aacff43d94284ea1ee28bd60d1, type: 3}
+  - {fileID: 21300000, guid: b5d8c92de9aaa6a45a2123e233e69d12, type: 3}
+  - {fileID: 21300000, guid: 197f44efbaaa30d46b0e9ebe6fd87c59, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tag_medium
+  - icon_computer
+  - icon_hands
+  - icon_light
+  - icon_maginfy
+  - icon_flag
+  - card_background
+  - icon_tool
+  - window_border
+  - window_background
+  - tag_large
+  - stat_bar
+  - card_border
+  m_RenderDataMap: {}
+  m_Tag: card_atlas
+  m_IsVariant: 0
